@@ -1,0 +1,6 @@
+{
+    "githubIssues.alwaysPromptForNewIssueRepo": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
+}
